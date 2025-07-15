@@ -8,7 +8,7 @@ A complete end-to-end Data Analyst project where I forecasted future sales trend
 
 - Source: Internal company sales data (mock data)
 - Format: CSV
-- Size: ~2,000 rows
+- Size: ~2,000+ rows
 - Fields include:
 - ORDER_ID	ORDER_DATE	REGION	CATEGORY	PRODUCT_NAME	UNIT_PRICE	QUANTITY	PAYMENT_METHOD	CUSTOMER_ID	CUSTOMER_SEGMENT	STORE_ID	DELIVERY_DAYS	TOTAL_PRICE	PROMISED_DELIVERY_DATE	ACTUAL_DELIVERY_DATE	DELIVERY_STATUS
 
